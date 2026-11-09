@@ -6,7 +6,7 @@
 ### 🧑‍💻 About
 - 🏦 Backend engineer on Aladdin, running production pipelines end to end: batchers, drivers and internal-tool services
 - 🔄 Currently helping migrate legacy Perl to Python
-- 📈 Building [FinPulse](https://github.com/NimitZakharia/FinPulse), an investment risk intelligence engine
+- 📈 Building FinPulse, an investment risk intelligence engine
 - 🧩 Working through system design and DSA
 
 ### 🛠️ What I work with
@@ -30,17 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="32" height="32" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" alt="CSS3" />
-</p>
-
-### 🚀 Featured
-| Project | What it is |
-|---|---|
-| [FinPulse](https://github.com/NimitZakharia/FinPulse) | Personal investment risk intelligence engine |
-
-### 📊 Stats
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nimitzakharia&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimitzakharia&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 ### 📫 Reach me
